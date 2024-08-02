@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "GQfuPFovffkO90jB8f070c2r3siLBdtFPGnq1mTr8oml3Z/qaI8evBv1MsUPM5X6spM3O4maN3ydx9OqXbRzJQ==",
+  "success": true,
+  "projectFilePath": "D:\\Dev\\CSharp\\WPF\\ElementUI.Wpf\\src\\ElementUI\\ElementUI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\20205\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.122\\microsoft.xaml.behaviors.wpf.1.1.122.nupkg.sha512"
+  ],
+  "logs": []
+}

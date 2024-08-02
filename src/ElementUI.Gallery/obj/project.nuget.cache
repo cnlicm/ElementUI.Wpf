@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "TL6fC6RNGCJXEFVjzAfMCROEMC5DcUGfWsi/eTAne+c/AQP/q4y7+R2g15TnP3Zdz+qu7EWhaaLAg52dQldp+A==",
+  "success": true,
+  "projectFilePath": "D:\\Dev\\CSharp\\WPF\\ElementUI.Wpf\\src\\ElementUI.Gallery\\ElementUI.Gallery.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\20205\\.nuget\\packages\\communitytoolkit.mvvm\\8.2.2\\communitytoolkit.mvvm.8.2.2.nupkg.sha512",
+    "C:\\Users\\20205\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.122\\microsoft.xaml.behaviors.wpf.1.1.122.nupkg.sha512"
+  ],
+  "logs": []
+}
